@@ -1,8 +1,9 @@
+````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:07140f,75:0b2b1c,100:00ff88&height=260&section=header&text=ARDA%20URAL&fontSize=64&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=JUNIOR%20SOFTWARE%20DEVELOPER%20%7C%20CYBERSECURITY%20ENTHUSIAST&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,35:07140f,70:0b2b1c,100:00ff88&height=280&section=header&text=ARDA%20URAL&fontSize=70&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=JUNIOR%20SOFTWARE%20DEVELOPER%20%7C%20CYBERSECURITY&descAlignY=61&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=850&lines=%3E+Initializing+Arda-Ural+system...;%3E+Software+Developer;%3E+Cybersecurity+Enthusiast;%3E+Full-Stack+Web+Developer;%3E+Security+%2B+Software+%2B+Continuous+Learning;%3E+Build+%7C+Break+%7C+Learn+%7C+Secure;%3E+System+Online+%E2%9C%93"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1800&pause=500&color=00FF88&center=true&vCenter=true&width=900&lines=%3E+Booting+Arda-Ural+system...;%3E+Software+Developer;%3E+Cybersecurity+Enthusiast;%3E+Full-Stack+Web+Developer;%3E+Security+Research+%2B+Software+Engineering;%3E+Building+new+projects...;%3E+Learning+new+technologies...;%3E+System+Online+%E2%9C%93"/>
 
 <br>
 
@@ -10,9 +11,9 @@
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff88?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/FOCUS-CYBER%20%2B%20SOFTWARE-00ff88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-ACTIVE-00ff88?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20LEARNING-00ff88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-00ff88?style=for-the-badge"/>
 
 </div>
 
@@ -20,28 +21,39 @@
 
 <div align="center">
 
-## `> WHOAMI`
+<img src="https://raw.githubusercontent.com/Arda-Ural/Arda-Ural/main/assets/matrix.svg"/>
+
+</div>
+
+---
+
+# `> WHOAMI`
 
 ```text
-┌─────────────────────────────────────────────────────────────────────┐
-│                         ARDA URAL                                   │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│  Junior Software Developer & Cybersecurity Enthusiast              │
-│                                                                     │
-│  Computer Programming Graduate                                     │
-│                                                                     │
-│  Software Development • Cybersecurity • Web Technologies            │
-│  Linux • Security Research • SaaS • Continuous Learning             │
-│                                                                     │
-│  I learn by building.                                               │
-│  I improve by experimenting.                                        │
-│  I understand systems by testing them in controlled environments.   │
-│                                                                     │
-│  STATUS: BUILDING • LEARNING • RESEARCHING • SECURING              │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+┌──────────────────────────────────────────────────────────────────┐
+│                         ARDA URAL                                │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  Junior Software Developer                                       │
+│  Cybersecurity Enthusiast                                        │
+│  Computer Programming Graduate                                   │
+│                                                                  │
+│  Software Development                                            │
+│  Cybersecurity                                                   │
+│  Full-Stack Web Development                                      │
+│  Linux / Security Research                                       │
+│  SaaS / AI Applications                                          │
+│                                                                  │
+│  LEARN → BUILD → TEST → BREAK → IMPROVE → SECURE                │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+````
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Arda-Ural/Arda-Ural/main/assets/cyber-terminal.svg"/>
 
 </div>
 
@@ -51,60 +63,46 @@
 
 Hello, I'm **Arda**.
 
-I'm a newly graduated **Computer Programming** student beginning my professional journey as a **Junior Software Developer**, while continuously developing my skills in **Cybersecurity**.
+I'm a newly graduated **Computer Programming** student beginning my professional journey as a **Junior Software Developer**, while continuously developing myself in **Cybersecurity**.
 
-I'm especially interested in the intersection between **software development and security**.
+I'm interested in both sides of technology:
 
-I enjoy researching new technologies, building personal projects, experimenting with different technologies, studying security concepts and turning what I learn into practical work.
+**building software** and **understanding how software and systems can be secured.**
 
-My approach is simple:
+I enjoy researching new technologies, creating personal projects, experimenting with different stacks, building controlled security labs and turning what I learn into practical experience.
 
-```text
-RESEARCH
-   ↓
-LEARN
-   ↓
-BUILD
-   ↓
-TEST
-   ↓
-BREAK
-   ↓
-DEBUG
-   ↓
-IMPROVE
-   ↓
-SECURE
-```
+I'm not interested in staying inside one technology.
 
-I don't want to limit myself to a single technology or field.
+I want to keep exploring:
 
-I'm continuously working to improve myself across **software development, web technologies, backend systems, databases, Linux and cybersecurity**.
+`Software` • `Web` • `Backend` • `Databases` • `Linux` • `Cybersecurity` • `AI` • `SaaS`
 
 ---
 
-# `> WHAT_I_DO`
+# `> CURRENT_MISSION`
+
+<div align="center">
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                       AREAS OF FOCUS                        │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  💻 Software Development                                    │
-│  🌐 Full-Stack Web Development                              │
-│  🔐 Cybersecurity                                            │
-│  🛡️ Web Application Security                                │
-│  🐧 Linux / Kali Linux                                      │
-│  🌐 Network Security                                        │
-│  🔎 Vulnerability Research                                  │
-│  🧪 Security Testing                                        │
-│  🗄️ Database & Backend Systems                              │
-│  🤖 AI-powered Applications                                 │
-│  🚀 SaaS Development                                        │
-│  📚 Continuous Learning & Research                          │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+╔════════════════════════════════════════════════════════════╗
+║                     CURRENT MISSION                        ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  [✓] Build personal projects                              ║
+║  [✓] Improve software development                          ║
+║  [✓] Practice cybersecurity                                ║
+║  [✓] Study Linux & networking                              ║
+║  [✓] Explore web security                                  ║
+║  [✓] Research new technologies                             ║
+║  [→] Build more security-focused applications              ║
+║  [→] Improve full-stack development                         ║
+║  [→] Learn something new every day                         ║
+║                                                            ║
+║                  NEVER STOP LEARNING                        ║
+╚════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 ---
 
@@ -119,17 +117,17 @@ I'm continuously working to improve myself across **software development, web te
 ### `SECURITY_FOCUS`
 
 ```text
-Network Security          █████████░░░  PRACTICING
-Web Security              ████████░░░░  LEARNING
-Vulnerability Analysis    ████████░░░░  PRACTICING
-Linux Security            █████████░░░  PRACTICING
-Security Testing          ███████░░░░░  LEARNING
-Security Research         ████████░░░░  ACTIVE
-TLS / SSL                 ███████░░░░░  STUDYING
-Traffic Analysis          ███████░░░░░  PRACTICING
+NETWORK SECURITY          █████████░░  ACTIVE
+WEB SECURITY              ████████░░░  ACTIVE
+LINUX SECURITY            █████████░░  ACTIVE
+VULNERABILITY ANALYSIS    ████████░░░  PRACTICING
+SECURITY TESTING          ███████░░░░  PRACTICING
+TRAFFIC ANALYSIS          ███████░░░░  PRACTICING
+TLS / SSL                 ███████░░░░  STUDYING
+SECURITY RESEARCH         ████████░░░  ACTIVE
 ```
 
-### `SECURITY_TOOLS`
+### `TOOLS`
 
 <div align="center">
 
@@ -139,20 +137,27 @@ Traffic Analysis          ███████░░░░░  PRACTICING
 
 ### `SECURITY_LABS`
 
-I use controlled environments and personal labs to practice:
+Personal and controlled security practice involving:
 
 * Network reconnaissance
 * Service enumeration
-* Network traffic analysis
+* Traffic analysis
 * Vulnerability assessment
-* Web application security concepts
+* Web application security
 * Linux security
-* HTTP / HTTPS security
-* TLS / SSL fundamentals
-* Security testing methodologies
+* TLS / SSL analysis
+* Security testing
 * Security tooling
-* Authentication and authorization concepts
+* Authentication concepts
 * Defensive security concepts
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Arda-Ural/Arda-Ural/main/assets/security-scanner.svg"/>
+
+</div>
 
 ---
 
@@ -160,25 +165,25 @@ I use controlled environments and personal labs to practice:
 
 <div align="center">
 
-### Languages
+### LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,php,python,bash,html,css&theme=dark"/>
 
 <br><br>
 
-### Frontend
+### FRONTEND
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark"/>
 
 <br><br>
 
-### Backend / Database
+### BACKEND / DATABASE
 
 <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql&theme=dark"/>
 
 <br><br>
 
-### Tools / Platforms
+### TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel&theme=dark"/>
 
@@ -186,74 +191,26 @@ I use controlled environments and personal labs to practice:
 
 ---
 
-# `> TECHNOLOGY_MATRIX`
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                    ARDA URAL // TECH MATRIX                ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║ LANGUAGES                                                  ║
-║                                                            ║
-║ JavaScript       █████████░░░                               ║
-║ TypeScript       ████████░░░░                               ║
-║ Python           ████████░░░░                               ║
-║ Java             ███████░░░░░                               ║
-║ PHP              ███████░░░░░                               ║
-║ Bash             ██████░░░░░░                               ║
-║ HTML / CSS       █████████░░░                               ║
-║                                                            ║
-║ WEB DEVELOPMENT                                            ║
-║                                                            ║
-║ React            ████████░░░░                               ║
-║ Next.js          ████████░░░░                               ║
-║ Tailwind CSS     ████████░░░░                               ║
-║ Node.js          ███████░░░░░                               ║
-║                                                            ║
-║ DATABASE / BACKEND                                         ║
-║                                                            ║
-║ Supabase         ████████░░░░                               ║
-║ PostgreSQL       ███████░░░░░                               ║
-║ MySQL            ███████░░░░░                               ║
-║                                                            ║
-║ SECURITY                                                   ║
-║                                                            ║
-║ Linux            █████████░░░                               ║
-║ Kali Linux       █████████░░░                               ║
-║ Nmap             ████████░░░░                               ║
-║ Wireshark        ███████░░░░░                               ║
-║ Metasploit       ███████░░░░░                               ║
-║ SQLMap           ███████░░░░░                               ║
-║ mitmproxy        ██████░░░░░░                               ║
-║ TLS / SSL        ███████░░░░░                               ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
-> These indicators represent current learning and practice focus, not formal certification levels.
-
----
-
 # `> FEATURED_PROJECTS`
 
 ## 💍 AI Wedding Invitation SaaS
 
-A modern digital wedding invitation platform concept designed around personalization and interactive invitations.
+A modern digital wedding invitation platform concept.
 
-**Technology**
+**Stack**
 
-`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `AI` · `Tailwind CSS`
+`Next.js` `TypeScript` `Supabase` `PostgreSQL` `AI` `Tailwind CSS`
 
 **Concepts**
 
 * AI-assisted invitation creation
-* Personalized invitation designs
-* RSVP system
+* Personalized designs
+* RSVP
 * Gallery
-* Google Maps integration
+* Google Maps
 * Countdown
 * QR codes
-* Custom invitation URLs
+* Custom URLs
 * Mobile-first architecture
 * PWA concepts
 * Authentication
@@ -263,11 +220,11 @@ A modern digital wedding invitation platform concept designed around personaliza
 
 ## 💇 Beauty Salon Management SaaS
 
-A business-oriented appointment management platform concept.
+Appointment management platform concept for beauty businesses.
 
-**Technology**
+**Stack**
 
-`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL`
+`Next.js` `TypeScript` `Supabase` `PostgreSQL`
 
 **Concepts**
 
@@ -283,68 +240,72 @@ A business-oriented appointment management platform concept.
 
 ---
 
-## 📱 Premium Phone Store Platform
+## 📱 Premium Phone Store
 
-A modern product and stock management platform concept for phone stores.
+Modern product and stock management platform concept.
 
-**Technology**
+**Stack**
 
-`Next.js` · `TypeScript` · `Supabase` · `Tailwind CSS`
+`Next.js` `TypeScript` `Supabase` `Tailwind CSS`
 
 **Concepts**
 
 * Premium UI
 * Product management
-* Stock management
+* Stock tracking
 * Authentication
 * Database integration
 * Payment integration concepts
 * Responsive design
-* Modern product presentation
 
 ---
 
-## 🔐 Cybersecurity Practice Labs
+## 🔐 Cybersecurity Labs
 
-Personal cybersecurity learning environments focused on understanding how systems, networks and applications work.
+Personal cybersecurity learning and experimentation environments.
 
-**Technology / Tools**
+**Tools**
 
-`Kali Linux` · `Nmap` · `Wireshark` · `Metasploit` · `SQLMap` · `mitmproxy` · `testssl.sh`
+`Kali Linux` `Nmap` `Wireshark` `Metasploit` `SQLMap` `mitmproxy`
 
 **Focus**
 
-* Network reconnaissance
-* Enumeration
-* Traffic analysis
-* Vulnerability research
-* Web security
-* Linux security
-* TLS / SSL analysis
-* Security testing
-* Security tooling
+Network Security • Web Security • Linux • Vulnerability Research • Security Testing
 
 ---
 
-# `> LEARNING_MINDSET`
+# `> LEARNING_ENGINE`
 
 <div align="center">
 
 ```text
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║                    NEVER STOP LEARNING                     ║
-║                                                            ║
-║       I don't want to simply use technology.              ║
-║       I want to understand how it works.                  ║
-║                                                            ║
-║       I don't want to build only one type of project.     ║
-║       I want to explore different technologies.            ║
-║                                                            ║
-║       I don't want to stop after graduation.              ║
-║       I want to keep researching, building and improving.  ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+                 ┌───────────────┐
+                 │    RESEARCH   │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     LEARN     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     BUILD     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │      TEST     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     BREAK     │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │    IMPROVE    │
+                 └───────┬───────┘
+                         ↓
+                 ┌───────────────┐
+                 │     SECURE    │
+                 └───────────────┘
 ```
 
 </div>
@@ -356,61 +317,23 @@ Personal cybersecurity learning environments focused on understanding how system
 <div align="center">
 
 ```text
-CYBERSECURITY              █████████░░  ACTIVE
-WEB SECURITY               ████████░░░  ACTIVE
-FULL-STACK DEVELOPMENT     █████████░░  ACTIVE
-NEXT.JS                    ████████░░░  ACTIVE
-TYPESCRIPT                 ████████░░░  ACTIVE
-PYTHON                     ████████░░░  ACTIVE
-LINUX                      █████████░░  ACTIVE
-NETWORK SECURITY           ████████░░░  ACTIVE
-AI APPLICATIONS            ███████░░░░  EXPLORING
-CLOUD / DEPLOYMENT         ██████░░░░░  EXPLORING
+CYBERSECURITY             █████████░░  ACTIVE
+WEB SECURITY              ████████░░░  ACTIVE
+FULL-STACK DEVELOPMENT    █████████░░  ACTIVE
+NEXT.JS                   ████████░░░  ACTIVE
+TYPESCRIPT                ████████░░░  ACTIVE
+PYTHON                    ████████░░░  ACTIVE
+LINUX                     █████████░░  ACTIVE
+NETWORK SECURITY          ████████░░░  ACTIVE
+AI APPLICATIONS           ███████░░░░  EXPLORING
+CLOUD / DEPLOYMENT        ██████░░░░░  EXPLORING
 ```
 
 </div>
 
 ---
 
-# `> DEVELOPMENT_PHILOSOPHY`
-
-<div align="center">
-
-```text
-                 ┌───────────────────┐
-                 │      RESEARCH     │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │       LEARN       │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │       BUILD       │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │        TEST       │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │       BREAK       │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │      IMPROVE      │
-                 └─────────┬─────────┘
-                           ↓
-                 ┌───────────────────┐
-                 │       SECURE      │
-                 └───────────────────┘
-```
-
-</div>
-
----
-
-# `> GITHUB_STATS`
+# `> GITHUB_ACTIVITY`
 
 <div align="center">
 
@@ -422,13 +345,7 @@ CLOUD / DEPLOYMENT         ██████░░░░░  EXPLORING
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arda-Ural&theme=dark&hide_border=true&background=050505&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=ffffff"/>
 
-</div>
-
----
-
-# `> ACTIVITY_GRAPH`
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda-Ural&theme=github-compact&bg_color=050505&color=00ff88&line=00ff88&point=ffffff&hide_border=true&area=true"/>
 
@@ -440,7 +357,7 @@ CLOUD / DEPLOYMENT         ██████░░░░░  EXPLORING
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Arda-Ural/Arda-Ural/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/Arda-Ural/Arda-Ural/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -452,54 +369,52 @@ CLOUD / DEPLOYMENT         ██████░░░░░  EXPLORING
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    ARDA-URAL TERMINAL                       ║
+║                  ARDA-URAL // TERMINAL                      ║
 ╚══════════════════════════════════════════════════════════════╝
 
 $ whoami
 
 arda-ural
 
+$ education
+
+Computer Programming Graduate
+
 $ role
 
 Junior Software Developer
 Cybersecurity Enthusiast
 
-$ education
-
-Computer Programming Graduate
-
 $ interests
 
-Software Development
-Cybersecurity
-Web Applications
-Linux
-Security Research
-SaaS
-Artificial Intelligence
+[+] Software Development
+[+] Full-Stack Web Development
+[+] Cybersecurity
+[+] Linux
+[+] Web Security
+[+] Security Research
+[+] SaaS
+[+] AI Applications
 
-$ current_status
+$ status
 
-[+] Learning
-[+] Building
-[+] Researching
-[+] Experimenting
-[+] Improving
+SYSTEM        [ ONLINE ]
+NETWORK       [ ONLINE ]
+SECURITY      [ ACTIVE ]
+DEVELOPMENT   [ ACTIVE ]
+LEARNING      [ CONSTANT ]
 
 $ mission
 
-Build useful software.
-Understand how systems work.
-Learn how systems fail.
-Build them better and more securely.
+Build.
+Break.
+Learn.
+Improve.
+Secure.
 
-$ motto
+$ system_message
 
-BUILD → BREAK → LEARN → SECURE
-
-$ system
-
-████████████████████████████████████████████████  ONLINE
+I'm just getting started.
 
 $ exit
 
@@ -510,13 +425,23 @@ Connection remains active...
 
 ---
 
-# `> CONNECT`
+# `> PHILOSOPHY`
 
 <div align="center">
 
-<a href="https://github.com/Arda-Ural">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88"/>
-</a>
+```text
+"Don't just use technology.
+
+Understand it.
+
+Build it.
+
+Break it in controlled environments.
+
+Learn from it.
+
+Make it better."
+```
 
 </div>
 
@@ -524,7 +449,11 @@ Connection remains active...
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,45:0b2b1c,75:07140f,100:050505&height=150&section=footer&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=850&lines=Always+learning...;Always+building...;Always+researching...;Always+improving...;Security+is+a+mindset.;Software+is+a+craft.;Never+stop+learning."/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,35:0b2b1c,70:07140f,100:020403&height=160&section=footer&animation=fadeIn"/>
 
 ```text
 ╔════════════════════════════════════════════════════════════╗
@@ -537,3 +466,4 @@ Connection remains active...
 ```
 
 </div>
+```
