@@ -1,0 +1,93 @@
+```svg
+<svg width="900" height="220" viewBox="0 0 900 220"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="3" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<rect width="900" height="220" fill="#020403"/>
+
+<g fill="#00ff88"
+font-family="monospace"
+font-size="15"
+opacity="0.7">
+
+<text x="20" y="-20">010101101001</text>
+<text x="100" y="-80">101011010101</text>
+<text x="180" y="-40">110010101001</text>
+<text x="270" y="-100">010101011010</text>
+<text x="360" y="-50">101010110100</text>
+<text x="450" y="-120">001101010101</text>
+<text x="540" y="-70">110101010010</text>
+<text x="630" y="-30">010110101011</text>
+<text x="720" y="-100">101010101100</text>
+<text x="810" y="-50">110101001010</text>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;0 300"
+dur="4s"
+repeatCount="indefinite"/>
+
+</g>
+
+<g fill="#00ff88"
+font-family="monospace"
+font-size="15"
+opacity="0.5">
+
+<text x="50" y="-150">010101</text>
+<text x="150" y="-180">101010</text>
+<text x="250" y="-130">110010</text>
+<text x="350" y="-170">001101</text>
+<text x="450" y="-140">010101</text>
+<text x="550" y="-190">101011</text>
+<text x="650" y="-150">110100</text>
+<text x="750" y="-180">001010</text>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;0 400"
+dur="6s"
+repeatCount="indefinite"/>
+
+</g>
+
+<rect width="900" height="220"
+fill="none"
+stroke="#00ff88"
+stroke-width="2"
+opacity="0.4"/>
+
+<text x="450" y="115"
+text-anchor="middle"
+font-family="monospace"
+font-size="28"
+font-weight="bold"
+fill="#00ff88"
+filter="url(#glow)">
+CYBER SECURITY // SYSTEM ACTIVE
+</text>
+
+<text x="450" y="145"
+text-anchor="middle"
+font-family="monospace"
+font-size="14"
+fill="#ffffff"
+opacity="0.8">
+NETWORK • SECURITY • SOFTWARE • RESEARCH
+</text>
+
+</svg>
+```
