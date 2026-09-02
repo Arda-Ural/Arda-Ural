@@ -1,0 +1,149 @@
+```svg
+<svg width="900" height="260"
+viewBox="0 0 900 260"
+xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="5" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+<radialGradient id="radar">
+<stop offset="0%" stop-color="#00ff88" stop-opacity="0.35"/>
+<stop offset="100%" stop-color="#00ff88" stop-opacity="0"/>
+</radialGradient>
+
+</defs>
+
+<rect width="900" height="260"
+rx="16"
+fill="#020403"
+stroke="#00ff88"
+stroke-width="2"/>
+
+<circle cx="450" cy="130" r="105"
+fill="none"
+stroke="#00ff88"
+opacity="0.2"/>
+
+<circle cx="450" cy="130" r="75"
+fill="none"
+stroke="#00ff88"
+opacity="0.2"/>
+
+<circle cx="450" cy="130" r="45"
+fill="none"
+stroke="#00ff88"
+opacity="0.2"/>
+
+<circle cx="450" cy="130" r="105"
+fill="url(#radar)"/>
+
+<line x1="450" y1="130"
+x2="450" y2="25"
+stroke="#00ff88"
+stroke-width="2"
+filter="url(#glow)">
+
+<animateTransform
+attributeName="transform"
+type="rotate"
+from="0 450 130"
+to="360 450 130"
+dur="3s"
+repeatCount="indefinite"/>
+
+</line>
+
+<circle cx="450" cy="130" r="6"
+fill="#00ff88"
+filter="url(#glow)"/>
+
+<circle cx="450" cy="55" r="5" fill="#00ff88">
+<animate
+attributeName="opacity"
+values="1;0.1;1"
+dur="1s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="520" cy="100" r="5" fill="#00ff88">
+<animate
+attributeName="opacity"
+values="0.2;1;0.2"
+dur="1.5s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="390" cy="170" r="5" fill="#00ff88">
+<animate
+attributeName="opacity"
+values="1;0.1;1"
+dur="2s"
+repeatCount="indefinite"/>
+</circle>
+
+<text x="30" y="40"
+font-family="monospace"
+font-size="16"
+fill="#00ff88">
+SECURITY SCANNER
+</text>
+
+<text x="30" y="70"
+font-family="monospace"
+font-size="13"
+fill="#ffffff">
+NETWORK ........ ONLINE
+</text>
+
+<text x="30" y="95"
+font-family="monospace"
+font-size="13"
+fill="#ffffff">
+WEB ............ ACTIVE
+</text>
+
+<text x="30" y="120"
+font-family="monospace"
+font-size="13"
+fill="#ffffff">
+LINUX .......... SECURE
+</text>
+
+<text x="30" y="145"
+font-family="monospace"
+font-size="13"
+fill="#ffffff">
+SERVICES ....... SCANNING
+</text>
+
+<text x="30" y="170"
+font-family="monospace"
+font-size="13"
+fill="#ffffff">
+THREATS ........ MONITORING
+</text>
+
+<text x="30" y="205"
+font-family="monospace"
+font-size="14"
+fill="#00ff88">
+STATUS: SYSTEM SECURE
+</text>
+
+<text x="450" y="235"
+text-anchor="middle"
+font-family="monospace"
+font-size="13"
+fill="#00ff88">
+CONTINUOUSLY LEARNING • CONTINUOUSLY BUILDING
+</text>
+
+</svg>
+```
