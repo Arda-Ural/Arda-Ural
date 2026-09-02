@@ -1,199 +1,539 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1f17,100:00ff88&height=240&section=header&text=ARDA%20URAL&fontSize=60&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=CYBER%20SECURITY%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=58&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:07140f,75:0b2b1c,100:00ff88&height=260&section=header&text=ARDA%20URAL&fontSize=64&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=JUNIOR%20SOFTWARE%20DEVELOPER%20%7C%20CYBERSECURITY%20ENTHUSIAST&descAlignY=60&descSize=18"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=850&lines=%3E+Initializing+Arda-Ural+system...;%3E+Software+Developer;%3E+Cybersecurity+Enthusiast;%3E+Full-Stack+Web+Developer;%3E+Security+%2B+Software+%2B+Continuous+Learning;%3E+Build+%7C+Break+%7C+Learn+%7C+Secure;%3E+System+Online+%E2%9C%93"/>
 
 <br>
 
-<a href="https://github.com/Arda-Ural">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=850&height=60&lines=%3E+Initializing+Arda-Ural...;%3E+Cyber+Security+Enthusiast;%3E+Software+Developer;%3E+Full+Stack+Web+Developer;%3E+Building+%7C+Breaking+%7C+Securing;%3E+System+Online+%E2%9C%93" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Arda-Ural&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge"/>
 
-<br><br>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff88?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff88?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/CYBER_SECURITY-ACTIVE-00ff88?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/SOFTWARE-DEV-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/FOCUS-CYBER%20%2B%20SOFTWARE-00ff88?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20LEARNING-00ff88?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## `root@arda:~$ whoami`
+<div align="center">
+
+## `> WHOAMI`
+
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│                         ARDA URAL                                   │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  Junior Software Developer & Cybersecurity Enthusiast              │
+│                                                                     │
+│  Computer Programming Graduate                                     │
+│                                                                     │
+│  Software Development • Cybersecurity • Web Technologies            │
+│  Linux • Security Research • SaaS • Continuous Learning             │
+│                                                                     │
+│  I learn by building.                                               │
+│  I improve by experimenting.                                        │
+│  I understand systems by testing them in controlled environments.   │
+│                                                                     │
+│  STATUS: BUILDING • LEARNING • RESEARCHING • SECURING              │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# `> ABOUT_ME`
+
+Hello, I'm **Arda**.
+
+I'm a newly graduated **Computer Programming** student beginning my professional journey as a **Junior Software Developer**, while continuously developing my skills in **Cybersecurity**.
+
+I'm especially interested in the intersection between **software development and security**.
+
+I enjoy researching new technologies, building personal projects, experimenting with different technologies, studying security concepts and turning what I learn into practical work.
+
+My approach is simple:
+
+```text
+RESEARCH
+   ↓
+LEARN
+   ↓
+BUILD
+   ↓
+TEST
+   ↓
+BREAK
+   ↓
+DEBUG
+   ↓
+IMPROVE
+   ↓
+SECURE
+```
+
+I don't want to limit myself to a single technology or field.
+
+I'm continuously working to improve myself across **software development, web technologies, backend systems, databases, Linux and cybersecurity**.
+
+---
+
+# `> WHAT_I_DO`
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                       AREAS OF FOCUS                        │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  💻 Software Development                                    │
+│  🌐 Full-Stack Web Development                              │
+│  🔐 Cybersecurity                                            │
+│  🛡️ Web Application Security                                │
+│  🐧 Linux / Kali Linux                                      │
+│  🌐 Network Security                                        │
+│  🔎 Vulnerability Research                                  │
+│  🧪 Security Testing                                        │
+│  🗄️ Database & Backend Systems                              │
+│  🤖 AI-powered Applications                                 │
+│  🚀 SaaS Development                                        │
+│  📚 Continuous Learning & Research                          │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# `> CYBERSECURITY`
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,kali,python,bash&theme=dark"/>
+
+</div>
+
+### `SECURITY_FOCUS`
+
+```text
+Network Security          █████████░░░  PRACTICING
+Web Security              ████████░░░░  LEARNING
+Vulnerability Analysis    ████████░░░░  PRACTICING
+Linux Security            █████████░░░  PRACTICING
+Security Testing          ███████░░░░░  LEARNING
+Security Research         ████████░░░░  ACTIVE
+TLS / SSL                 ███████░░░░░  STUDYING
+Traffic Analysis          ███████░░░░░  PRACTICING
+```
+
+### `SECURITY_TOOLS`
+
+<div align="center">
+
+`Nmap` • `Wireshark` • `Metasploit` • `Aircrack-ng` • `SQLMap` • `mitmproxy` • `testssl.sh`
+
+</div>
+
+### `SECURITY_LABS`
+
+I use controlled environments and personal labs to practice:
+
+* Network reconnaissance
+* Service enumeration
+* Network traffic analysis
+* Vulnerability assessment
+* Web application security concepts
+* Linux security
+* HTTP / HTTPS security
+* TLS / SSL fundamentals
+* Security testing methodologies
+* Security tooling
+* Authentication and authorization concepts
+* Defensive security concepts
+
+---
+
+# `> SOFTWARE_DEVELOPMENT`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,php,python,bash,html,css&theme=dark"/>
+
+<br><br>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark"/>
+
+<br><br>
+
+### Backend / Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql&theme=dark"/>
+
+<br><br>
+
+### Tools / Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel&theme=dark"/>
+
+</div>
+
+---
+
+# `> TECHNOLOGY_MATRIX`
 
 ```text
 ╔════════════════════════════════════════════════════════════╗
+║                    ARDA URAL // TECH MATRIX                ║
+╠════════════════════════════════════════════════════════════╣
 ║                                                            ║
-║                    A R D A   U R A L                       ║
+║ LANGUAGES                                                  ║
 ║                                                            ║
-║          CYBER SECURITY • SOFTWARE DEVELOPER               ║
+║ JavaScript       █████████░░░                               ║
+║ TypeScript       ████████░░░░                               ║
+║ Python           ████████░░░░                               ║
+║ Java             ███████░░░░░                               ║
+║ PHP              ███████░░░░░                               ║
+║ Bash             ██████░░░░░░                               ║
+║ HTML / CSS       █████████░░░                               ║
 ║                                                            ║
-║  > Web Development                                         ║
-║  > Network Security                                        ║
-║  > Linux / Kali Linux                                      ║
-║  > Full Stack Development                                  ║
-║  > Automation & Security                                   ║
+║ WEB DEVELOPMENT                                            ║
+║                                                            ║
+║ React            ████████░░░░                               ║
+║ Next.js          ████████░░░░                               ║
+║ Tailwind CSS     ████████░░░░                               ║
+║ Node.js          ███████░░░░░                               ║
+║                                                            ║
+║ DATABASE / BACKEND                                         ║
+║                                                            ║
+║ Supabase         ████████░░░░                               ║
+║ PostgreSQL       ███████░░░░░                               ║
+║ MySQL            ███████░░░░░                               ║
+║                                                            ║
+║ SECURITY                                                   ║
+║                                                            ║
+║ Linux            █████████░░░                               ║
+║ Kali Linux       █████████░░░                               ║
+║ Nmap             ████████░░░░                               ║
+║ Wireshark        ███████░░░░░                               ║
+║ Metasploit       ███████░░░░░                               ║
+║ SQLMap           ███████░░░░░                               ║
+║ mitmproxy        ██████░░░░░░                               ║
+║ TLS / SSL        ███████░░░░░                               ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
 
-```text
-root@arda:~$ systemctl status arda
-
-● arda.service - Cyber Security & Software Development
-   Loaded: loaded
-   Active: active (running)
-
-[✓] Cyber Security
-[✓] Software Development
-[✓] Web Development
-[✓] Linux
-[✓] Network Security
-
-ACCESS GRANTED
-```
+> These indicators represent current learning and practice focus, not formal certification levels.
 
 ---
 
-## `root@arda:~$ ./tech-stack.sh`
+# `> FEATURED_PROJECTS`
 
-<div align="center">
+## 💍 AI Wedding Invitation SaaS
 
-### 🛡️ CYBER SECURITY
+A modern digital wedding invitation platform concept designed around personalization and interactive invitations.
 
-<img src="https://skillicons.dev/icons?i=linux,kali,python,bash&theme=dark" />
+**Technology**
 
-<br><br>
+`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `AI` · `Tailwind CSS`
 
-### 💻 PROGRAMMING
+**Concepts**
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,java,php,python&theme=dark" />
-
-<br><br>
-
-### 🌐 WEB DEVELOPMENT
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs&theme=dark" />
-
-<br><br>
-
-### 🗄️ DATABASE & BACKEND
-
-<img src="https://skillicons.dev/icons?i=supabase,postgresql,mysql,nodejs&theme=dark" />
-
-<br><br>
-
-### ⚙️ TOOLS
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel&theme=dark" />
-
-</div>
+* AI-assisted invitation creation
+* Personalized invitation designs
+* RSVP system
+* Gallery
+* Google Maps integration
+* Countdown
+* QR codes
+* Custom invitation URLs
+* Mobile-first architecture
+* PWA concepts
+* Authentication
+* Database architecture
 
 ---
 
-## `root@arda:~$ ls -la projects/`
+## 💇 Beauty Salon Management SaaS
 
-<div align="center">
+A business-oriented appointment management platform concept.
 
-|           Project           | Description                                              |                Stack               |
-| :-------------------------: | :------------------------------------------------------- | :--------------------------------: |
-|     💍 **Wedding SaaS**     | AI-supported premium digital wedding invitation platform |  `Next.js` `TypeScript` `Supabase` |
-|   💇 **Beauty Salon SaaS**  | Appointment & business management platform               |  `Next.js` `Supabase` `PostgreSQL` |
-|      📱 **Phone Store**     | Premium mobile store e-commerce platform                 |    `Next.js` `React` `Tailwind`    |
-| 🛡️ **Cyber Security Labs** | Security testing & network analysis laboratory           | `Kali` `Nmap` `Wireshark` `Python` |
-|   🌐 **Web Applications**   | Modern responsive web applications                       |   `React` `Next.js` `TypeScript`   |
+**Technology**
 
-</div>
+`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL`
 
----
+**Concepts**
 
-## `root@arda:~$ ./github-stats.sh`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arda-Ural&show_icons=true&hide_border=true&bg_color=00000000&title_color=00ff88&icon_color=00ff88&text_color=ffffff&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Ural&layout=compact&hide_border=true&bg_color=00000000&title_color=00ff88&text_color=ffffff" height="180"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arda-Ural&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=ffffff&dates=888888" />
-
-</div>
+* Appointment management
+* Availability control
+* Business dashboard
+* Customer management
+* Appointment approval
+* Double-booking prevention
+* Service management
+* Scheduling
+* WhatsApp notification concepts
 
 ---
 
-## `root@arda:~$ ./activity.sh`
+## 📱 Premium Phone Store Platform
 
-<div align="center">
+A modern product and stock management platform concept for phone stores.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda-Ural&bg_color=00000000&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" width="95%"/>
+**Technology**
 
-</div>
+`Next.js` · `TypeScript` · `Supabase` · `Tailwind CSS`
 
----
+**Concepts**
 
-## `root@arda:~$ ./contribution-snake.sh`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Arda-Ural/Arda-Ural/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## `root@arda:~$ security.log`
-
-```text
-[  OK  ] Network monitoring initialized
-[  OK  ] Linux environment initialized
-[  OK  ] Development environment initialized
-[  OK  ] Security tools loaded
-[  OK  ] Git repository connected
-[  OK  ] GitHub Actions ready
-
-STATUS: OPERATIONAL
-```
+* Premium UI
+* Product management
+* Stock management
+* Authentication
+* Database integration
+* Payment integration concepts
+* Responsive design
+* Modern product presentation
 
 ---
 
-## `root@arda:~$ ping github.com`
+## 🔐 Cybersecurity Practice Labs
+
+Personal cybersecurity learning environments focused on understanding how systems, networks and applications work.
+
+**Technology / Tools**
+
+`Kali Linux` · `Nmap` · `Wireshark` · `Metasploit` · `SQLMap` · `mitmproxy` · `testssl.sh`
+
+**Focus**
+
+* Network reconnaissance
+* Enumeration
+* Traffic analysis
+* Vulnerability research
+* Web security
+* Linux security
+* TLS / SSL analysis
+* Security testing
+* Security tooling
+
+---
+
+# `> LEARNING_MINDSET`
 
 <div align="center">
 
 ```text
-PING github.com
-
-64 bytes from github.com
-64 bytes from github.com
-64 bytes from github.com
-
---- connection established ---
-
-SYSTEM       : ONLINE
-SECURITY     : ACTIVE
-DEVELOPMENT  : ACTIVE
-NETWORK      : MONITORED
-
-[████████████████████████████████] 100%
-
-ACCESS GRANTED ✓
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║                    NEVER STOP LEARNING                     ║
+║                                                            ║
+║       I don't want to simply use technology.              ║
+║       I want to understand how it works.                  ║
+║                                                            ║
+║       I don't want to build only one type of project.     ║
+║       I want to explore different technologies.            ║
+║                                                            ║
+║       I don't want to stop after graduation.              ║
+║       I want to keep researching, building and improving.  ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
+# `> CURRENTLY_LEARNING`
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Arda-Ural&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge"/>
+```text
+CYBERSECURITY              █████████░░  ACTIVE
+WEB SECURITY               ████████░░░  ACTIVE
+FULL-STACK DEVELOPMENT     █████████░░  ACTIVE
+NEXT.JS                    ████████░░░  ACTIVE
+TYPESCRIPT                 ████████░░░  ACTIVE
+PYTHON                     ████████░░░  ACTIVE
+LINUX                      █████████░░  ACTIVE
+NETWORK SECURITY           ████████░░░  ACTIVE
+AI APPLICATIONS            ███████░░░░  EXPLORING
+CLOUD / DEPLOYMENT         ██████░░░░░  EXPLORING
+```
+
+</div>
+
+---
+
+# `> DEVELOPMENT_PHILOSOPHY`
+
+<div align="center">
+
+```text
+                 ┌───────────────────┐
+                 │      RESEARCH     │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │       LEARN       │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │       BUILD       │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │        TEST       │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │       BREAK       │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │      IMPROVE      │
+                 └─────────┬─────────┘
+                           ↓
+                 ┌───────────────────┐
+                 │       SECURE      │
+                 └───────────────────┘
+```
+
+</div>
+
+---
+
+# `> GITHUB_STATS`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Arda-Ural&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00ff88&text_color=ffffff"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arda-Ural&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=050505&title_color=00ff88&text_color=ffffff"/>
 
 <br><br>
 
-### `> BUILDING. BREAKING. SECURING.`
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arda-Ural&theme=dark&hide_border=true&background=050505&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=ffffff"/>
 
-<br>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0b1f17,100:050505&height=140&section=footer"/>
+---
+
+# `> ACTIVITY_GRAPH`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arda-Ural&theme=github-compact&bg_color=050505&color=00ff88&line=00ff88&point=ffffff&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# `> CONTRIBUTION_SNAKE`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Arda-Ural/Arda-Ural/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# `> TERMINAL`
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    ARDA-URAL TERMINAL                       ║
+╚══════════════════════════════════════════════════════════════╝
+
+$ whoami
+
+arda-ural
+
+$ role
+
+Junior Software Developer
+Cybersecurity Enthusiast
+
+$ education
+
+Computer Programming Graduate
+
+$ interests
+
+Software Development
+Cybersecurity
+Web Applications
+Linux
+Security Research
+SaaS
+Artificial Intelligence
+
+$ current_status
+
+[+] Learning
+[+] Building
+[+] Researching
+[+] Experimenting
+[+] Improving
+
+$ mission
+
+Build useful software.
+Understand how systems work.
+Learn how systems fail.
+Build them better and more securely.
+
+$ motto
+
+BUILD → BREAK → LEARN → SECURE
+
+$ system
+
+████████████████████████████████████████████████  ONLINE
+
+$ exit
+
+Connection remains active...
+```
+
+</div>
+
+---
+
+# `> CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/Arda-Ural">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff88"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,45:0b2b1c,75:07140f,100:050505&height=150&section=footer&animation=fadeIn"/>
+
+```text
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║             BUILD • BREAK • LEARN • SECURE                 ║
+║                                                            ║
+║                  SYSTEM STATUS: ONLINE                     ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
 
 </div>
