@@ -1,11 +1,12 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020403,35:07140f,70:0b2b1c,100:00ff88&height=280&section=header&text=ARDA%20URAL&fontSize=70&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=JUNIOR%20SOFTWARE%20DEVELOPER%20%7C%20CYBERSECURITY&descAlignY=61&descSize=18"/>
 
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=1800&pause=500&color=00FF88&center=true&vCenter=true&width=900&lines=%3E+Booting+Arda-Ural+system...;%3E+Software+Developer;%3E+Cybersecurity+Enthusiast;%3E+Full-Stack+Web+Developer;%3E+Security+Research+%2B+Software+Engineering;%3E+Building+new+projects...;%3E+Learning+new+technologies...;%3E+System+Online+%E2%9C%93"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Arda-Ural&label=PROFILE%20VIEWS&color=00ff88&style=for-the-badge"/>
 
@@ -13,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/CYBERSECURITY-ACTIVE-00ff88?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-00ff88?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOFTWARE-DEVELOPMENT-00ff88?style=for-the-badge"/>
 
 </div>
 
@@ -39,15 +40,16 @@
 │  Computer Programming Graduate                                   │
 │                                                                  │
 │  Software Development                                            │
-│  Cybersecurity                                                   │
 │  Full-Stack Web Development                                      │
-│  Linux / Security Research                                       │
-│  SaaS / AI Applications                                          │
+│  Cybersecurity                                                   │
+│  Linux / Networking                                               │
+│  Security Research                                                │
+│  SaaS / AI Applications                                           │
 │                                                                  │
 │  LEARN → BUILD → TEST → BREAK → IMPROVE → SECURE                │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
-````
+```
 
 ---
 
@@ -63,19 +65,33 @@
 
 Hello, I'm **Arda**.
 
-I'm a newly graduated **Computer Programming** student beginning my professional journey as a **Junior Software Developer**, while continuously developing myself in **Cybersecurity**.
+I'm a **Computer Programming Graduate** beginning my professional journey as a **Junior Software Developer**, while continuously improving myself in **Cybersecurity**.
 
 I'm interested in both sides of technology:
 
-**building software** and **understanding how software and systems can be secured.**
+**building software** and **understanding how systems and applications can be secured.**
 
-I enjoy researching new technologies, creating personal projects, experimenting with different stacks, building controlled security labs and turning what I learn into practical experience.
+I enjoy researching new technologies, creating personal projects, experimenting with different technologies, building controlled cybersecurity labs and turning what I learn into practical projects.
 
-I'm not interested in staying inside one technology.
+My goal is simple:
 
-I want to keep exploring:
+```text
+BUILD SOFTWARE
+        ↓
+UNDERSTAND SYSTEMS
+        ↓
+TEST & RESEARCH
+        ↓
+LEARN
+        ↓
+IMPROVE
+        ↓
+BUILD BETTER
+```
 
-`Software` • `Web` • `Backend` • `Databases` • `Linux` • `Cybersecurity` • `AI` • `SaaS`
+### `INTERESTS`
+
+`Software Development` • `Web Development` • `Backend` • `Databases` • `Linux` • `Networking` • `Cybersecurity` • `Web Security` • `AI` • `SaaS`
 
 ---
 
@@ -94,8 +110,9 @@ I want to keep exploring:
 ║  [✓] Study Linux & networking                              ║
 ║  [✓] Explore web security                                  ║
 ║  [✓] Research new technologies                             ║
-║  [→] Build more security-focused applications              ║
-║  [→] Improve full-stack development                         ║
+║  [→] Build more full-stack applications                    ║
+║  [→] Build security-focused projects                      ║
+║  [→] Improve backend development                           ║
 ║  [→] Learn something new every day                         ║
 ║                                                            ║
 ║                  NEVER STOP LEARNING                        ║
@@ -127,7 +144,7 @@ TLS / SSL                 ███████░░░░  STUDYING
 SECURITY RESEARCH         ████████░░░  ACTIVE
 ```
 
-### `TOOLS`
+### `SECURITY_TOOLS`
 
 <div align="center">
 
@@ -137,7 +154,7 @@ SECURITY RESEARCH         ████████░░░  ACTIVE
 
 ### `SECURITY_LABS`
 
-Personal and controlled security practice involving:
+Personal and controlled cybersecurity practice involving:
 
 * Network reconnaissance
 * Service enumeration
@@ -151,6 +168,8 @@ Personal and controlled security practice involving:
 * Authentication concepts
 * Defensive security concepts
 
+> All security experimentation is performed in controlled and authorized environments.
+
 ---
 
 <div align="center">
@@ -163,27 +182,39 @@ Personal and controlled security practice involving:
 
 # `> SOFTWARE_DEVELOPMENT`
 
-<div align="center">
+## `LANGUAGES`
 
-### LANGUAGES
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,java,php,python,bash,html,css&theme=dark"/>
 
-<br><br>
+</div>
 
-### FRONTEND
+---
+
+## `FRONTEND`
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark"/>
 
-<br><br>
+</div>
 
-### BACKEND / DATABASE
+---
+
+## `BACKEND / DATABASE`
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,mysql&theme=dark"/>
 
-<br><br>
+</div>
 
-### TOOLS
+---
+
+## `TOOLS & PLATFORMS`
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel&theme=dark"/>
 
@@ -195,38 +226,39 @@ Personal and controlled security practice involving:
 
 ## 💍 AI Wedding Invitation SaaS
 
-A modern digital wedding invitation platform concept.
+A modern digital wedding invitation platform concept focused on creating personalized and interactive wedding invitations.
 
-**Stack**
+### `TECHNOLOGY`
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `AI` `Tailwind CSS`
 
-**Concepts**
+### `FEATURES / CONCEPTS`
 
 * AI-assisted invitation creation
-* Personalized designs
-* RSVP
-* Gallery
-* Google Maps
-* Countdown
+* Personalized invitation designs
+* RSVP system
+* Guest management
+* Image gallery
+* Google Maps integration
+* Event countdown
 * QR codes
-* Custom URLs
-* Mobile-first architecture
-* PWA concepts
+* Custom invitation URLs
+* Mobile-first design
 * Authentication
 * Database architecture
+* PWA concepts
 
 ---
 
 ## 💇 Beauty Salon Management SaaS
 
-Appointment management platform concept for beauty businesses.
+A modern appointment management platform concept designed for beauty businesses.
 
-**Stack**
+### `TECHNOLOGY`
 
 `Next.js` `TypeScript` `Supabase` `PostgreSQL`
 
-**Concepts**
+### `FEATURES / CONCEPTS`
 
 * Appointment management
 * Availability control
@@ -242,21 +274,22 @@ Appointment management platform concept for beauty businesses.
 
 ## 📱 Premium Phone Store
 
-Modern product and stock management platform concept.
+A modern product and stock management platform concept for phone stores.
 
-**Stack**
+### `TECHNOLOGY`
 
 `Next.js` `TypeScript` `Supabase` `Tailwind CSS`
 
-**Concepts**
+### `FEATURES / CONCEPTS`
 
-* Premium UI
+* Premium user interface
 * Product management
 * Stock tracking
 * Authentication
 * Database integration
-* Payment integration concepts
 * Responsive design
+* Payment integration concepts
+* Product management architecture
 
 ---
 
@@ -264,13 +297,13 @@ Modern product and stock management platform concept.
 
 Personal cybersecurity learning and experimentation environments.
 
-**Tools**
+### `TOOLS`
 
-`Kali Linux` `Nmap` `Wireshark` `Metasploit` `SQLMap` `mitmproxy`
+`Kali Linux` `Nmap` `Wireshark` `Metasploit` `SQLMap` `mitmproxy` `testssl.sh`
 
-**Focus**
+### `FOCUS`
 
-Network Security • Web Security • Linux • Vulnerability Research • Security Testing
+`Network Security` • `Web Security` • `Linux` • `Networking` • `Vulnerability Research` • `Security Testing`
 
 ---
 
@@ -296,7 +329,7 @@ Network Security • Web Security • Linux • Vulnerability Research • Secur
                  └───────┬───────┘
                          ↓
                  ┌───────────────┐
-                 │     BREAK     │
+                 │      BREAK    │
                  └───────┬───────┘
                          ↓
                  ┌───────────────┐
@@ -391,6 +424,7 @@ $ interests
 [+] Full-Stack Web Development
 [+] Cybersecurity
 [+] Linux
+[+] Networking
 [+] Web Security
 [+] Security Research
 [+] SaaS
@@ -430,17 +464,21 @@ Connection remains active...
 <div align="center">
 
 ```text
-"Don't just use technology.
-
-Understand it.
-
-Build it.
-
-Break it in controlled environments.
-
-Learn from it.
-
-Make it better."
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║              DON'T JUST USE TECHNOLOGY.                    ║
+║                                                            ║
+║                    UNDERSTAND IT.                          ║
+║                                                            ║
+║                     BUILD IT.                              ║
+║                                                            ║
+║              TEST IT IN CONTROLLED LABS.                   ║
+║                                                            ║
+║                    LEARN FROM IT.                          ║
+║                                                            ║
+║                   MAKE IT BETTER.                          ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -466,4 +504,3 @@ Make it better."
 ```
 
 </div>
-```
